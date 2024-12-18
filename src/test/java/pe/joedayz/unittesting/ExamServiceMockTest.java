@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 /**
  * @author josediaz
  **/
-public class ExamServiceStubTest {
+public class ExamServiceMockTest {
 
 
 //  @Test
